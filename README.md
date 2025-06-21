@@ -16,6 +16,7 @@ Course listings with title, description, and price
 Clean, responsive design using HTML and CSS only
 
 #Technologies Used
+
 HTML
 
 CSS
