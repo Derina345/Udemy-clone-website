@@ -22,11 +22,13 @@ HTML
 CSS
 
 #Folder Structure
+
 index.html       
 style.css       
           
 
 #Future Improvements
+
 Add JavaScript functionality to handle cart actions
 
 Include user login/signup page
